@@ -11,5 +11,4 @@ def fizzbuzz(maxCount, count=1):
         return fizzbuzz(maxCount, count + 1)
 
 
-print("Q12")
 print(fizzbuzz(100))
